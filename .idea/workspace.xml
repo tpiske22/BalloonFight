@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d255925e-2355-4e35-b9c0-7252d950b997" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mvc/controller/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/controller/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/BalloonFighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/BalloonFighter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/BalloonFox.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/BalloonFox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/BalloonKid.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/BalloonKid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/Bolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/Bolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/BonusBalloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/BonusBalloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/Cloud.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/Cloud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/CollisionOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/CollisionOp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/CommandCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/CommandCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/DeepEarthBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/DeepEarthBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/EarthBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/EarthBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/EarthWallBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/EarthWallBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/GameOpsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/GameOpsList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/Movable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/Pipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/Pipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/Platform.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/Platform.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/PoppedBalloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/PoppedBalloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/ReaperFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/ReaperFish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/ScorePop.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/ScorePop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/Splash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/model/Sprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/model/Sprite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/view/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/view/GameFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/view/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/view/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sounds/Sound.java" beforeDir="false" afterPath="$PROJECT_DIR$/sounds/Sound.java" afterDir="false" />
-    </list>
+    <list default="true" id="d255925e-2355-4e35-b9c0-7252d950b997" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +138,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555123351884" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555125452698" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -210,12 +184,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555122422407</updated>
-      <workItem from="1555122424927" duration="639000" />
+      <workItem from="1555122424927" duration="1046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="639000" />
+    <option name="totallyTimeSpent" value="1046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -226,7 +200,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
