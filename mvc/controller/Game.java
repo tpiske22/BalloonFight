@@ -1,8 +1,8 @@
-package _08final.mvc.controller;
+package mvc.controller;
 
-import _08final.mvc.view.GamePanel;
-import _08final.mvc.model.*;
-import _08final.sounds.Sound;
+import mvc.view.GamePanel;
+import mvc.model.*;
+import sounds.Sound;
 
 import javax.sound.sampled.Clip;
 import java.awt.*;
@@ -40,8 +40,7 @@ public class Game implements Runnable, KeyListener {
     private final int LEFT = 37;
     private final int UP = 38;
 
-    public static final String SCORE_FILENAME = System.getProperty("user.dir") + File.separator + "src"
-            + File.separator + "_08final" + File.separator + "highScore" + File.separator + "highScore.txt";
+    public static final String SCORE_FILENAME = System.getProperty("user.dir") + File.separator + "highScore" + File.separator + "highScore.txt";
 
     private Clip music_bonusLevel;
 

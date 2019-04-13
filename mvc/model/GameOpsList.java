@@ -1,4 +1,4 @@
-package _08final.mvc.model;
+package mvc.model;
 
 import java.util.*;
 import java.util.concurrent.locks.ReentrantLock;

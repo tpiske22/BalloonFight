@@ -1,4 +1,4 @@
-package _08final.mvc.view;
+package mvc.view;
 
 import java.awt.*;
 import java.awt.event.*;

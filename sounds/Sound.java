@@ -1,6 +1,6 @@
-package _08final.sounds;
+package sounds;
 
-import _08final.mvc.model.CommandCenter;
+import mvc.model.CommandCenter;
 
 import java.io.IOException;
 

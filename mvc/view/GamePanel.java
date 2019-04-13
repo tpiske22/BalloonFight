@@ -1,9 +1,9 @@
-package _08final.mvc.view;
+package mvc.view;
 
-import _08final.mvc.controller.Game;
-import _08final.mvc.model.CommandCenter;
-import _08final.mvc.model.Movable;
-import _08final.mvc.model.Sprite;
+import mvc.controller.Game;
+import mvc.model.CommandCenter;
+import mvc.model.Movable;
+import mvc.model.Sprite;
 
 import javax.swing.*;
 import java.awt.*;
@@ -23,8 +23,7 @@ public class GamePanel extends Panel {
     private GameFrame gmf;
 
     private Font blockyFont;
-    public static String fontDir = System.getProperty("user.dir") + File.separator + "src"
-            + File.separator + "_08final" + File.separator + "fonts" + File.separator;
+    public static String fontDir = System.getProperty("user.dir") + File.separator + "fonts" + File.separator;
 
     private Image titleScreen = new ImageIcon(Sprite.getImgDir() + "balloonFightTitle.gif").getImage();
     private Image bonusBackground = new ImageIcon(Sprite.getImgDir() + "bonusBackground.png").getImage();

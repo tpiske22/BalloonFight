@@ -1,6 +1,6 @@
-package _08final.mvc.model;
+package mvc.model;
 
-import _08final.mvc.controller.Game;
+import mvc.controller.Game;
 
 import javax.swing.*;
 import java.awt.*;

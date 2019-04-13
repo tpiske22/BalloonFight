@@ -1,4 +1,4 @@
-package _08final.mvc.model;
+package mvc.model;
 
 public class CollisionOp {
 

@@ -1,7 +1,7 @@
-package _08final.mvc.model;
+package mvc.model;
 
-import _08final.mvc.controller.Game;
-import _08final.sounds.Sound;
+import mvc.controller.Game;
+import sounds.Sound;
 
 import javax.swing.*;
 import java.awt.*;

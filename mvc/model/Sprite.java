@@ -1,4 +1,4 @@
-package _08final.mvc.model;
+package mvc.model;
 
 import java.awt.*;
 import java.io.File;
@@ -14,8 +14,7 @@ public abstract class Sprite implements Movable {
 
     public final int ORGANIC_FRAMERATE = 20;        // framerate for organic movement animation
 
-    public static String imgDir = System.getProperty("user.dir") + File.separator + "src"
-                            + File.separator + "_08final" + File.separator + "images" + File.separator;
+    public static String imgDir = System.getProperty("user.dir") + File.separator + "images" + File.separator;
 
 
     public Sprite(Point initPos, Team team) {

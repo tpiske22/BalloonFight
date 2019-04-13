@@ -1,6 +1,6 @@
-package _08final.mvc.model;
+package mvc.model;
 
-import _08final.sounds.Sound;
+import sounds.Sound;
 
 import javax.swing.*;
 import java.awt.*;
